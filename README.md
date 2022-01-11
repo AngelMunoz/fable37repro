@@ -6,7 +6,7 @@ Reproduction steps
 dotnet perla serve
 ```
 
-it doesn't finish compiling ever, one has to invoke the manual compilation
+it doesn't finish compiling ever (this might be how we invoke the fable executable), one has to invoke the manual compilation
 
 ```
 dotnet fable src
